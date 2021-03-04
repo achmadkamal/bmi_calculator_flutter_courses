@@ -1,6 +1,6 @@
 # BMI Calculator 
 
-BMI Calculator App. My journey Flutter study at London App Brewery.
+BMI Calculator App. My journey Flutter study at [London App Brewery](https://www.appbrewery.co/).
 
 ## About Module
 
